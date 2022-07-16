@@ -4,11 +4,22 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.116" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/drawable/shape_gradient_round_corner.xml" value="0.116" />
         <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/activity_home.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/actor_view_layout.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/detail_movie_content_layout.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/empty_view_layout.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_child.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_detail.xml" value="0.176" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_favorite.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_find.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_home.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_splash.xml" value="0.2" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/loading_view_layout.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/nav_header_home.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/overlap_loading_view_layout.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/popular_fragment.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/layout/test.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/menu/activity_home_drawer.xml" value="0.264" />
         <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/menu/common_menu.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/OsiyoComputers/AndroidStudioProjects/MovieApp/app/src/main/res/menu/search_menu.xml" value="0.26614583333333336" />
